@@ -1,6 +1,6 @@
 # JotForm API Form Explorer
 
-This is a simple web app built using [Streamlit](https://streamlit.io/) to explore and download JotForm forms using the JotForm API.
+This is a simple web app built using [Streamlit](https://streamlit.io/) to explore and download JotForm forms using the JotForm API. If you have an enterprise plan with a custom domain, you can click on the API URL dropdown, select "*custom*", and enter your own custom jotform API URL. This app enchances the current JotForm max limit of 1000 max limit, into 4000 max limit by looping by automatically correctly the offset. This number can be increased to whichever max number is needed by changing '4000' to another higher number in the code.
 
 # Web App
 Click [Here](https://huggingface.co/spaces/Kaludi/JotForm-API-Form-Explorer_App "Here") To View This App Online!
