@@ -5,7 +5,7 @@ This is a simple web app built using [Streamlit](https://streamlit.io/) to explo
 # Web App
 Click [Here](https://huggingface.co/spaces/Kaludi/JotForm-API-Form-Explorer_App "Here") To View This App Online!
 
-![Image](Image)
+![image](https://user-images.githubusercontent.com/63890666/221301581-2aefc384-ca1d-4548-be85-c9ef0d349411.png)
 
 ## Usage
 
