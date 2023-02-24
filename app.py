@@ -24,7 +24,7 @@ st.sidebar.header('JotForm API Options')
 
 api_url = st.sidebar.selectbox('API URL', ['api.jotform.com', 'custom'])
 if api_url == 'custom':
-    custom_api_url = st.sidebar.text_input('Custom API URL', 'api.yourapi.com/API/')
+    custom_api_url = st.sidebar.text_input('Custom API URL', 'yourdomain.com/API/')
     api_url = custom_api_url.rstrip('/')
 api_key = st.sidebar.text_input('Enter API Key', placeholder="API Key", value="")
 limit = st.sidebar.slider('Form Limit', 100, 4000, 100, step=100)
