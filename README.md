@@ -1,6 +1,6 @@
 # JotForm API Form Explorer
 
-This is a simple web app built using the python library [Streamlit](https://streamlit.io/) to explore and download JotForm forms using the JotForm API. If you have an enterprise plan with a custom domain, you can click on the API URL dropdown, select "*custom*", and enter your own custom jotform API URL. This app enhances the current JotForm maximum limit of 1000 by automatically correcting the offset and increasing the limit to 4000. This number can be increased to whichever maximum number is needed by changing '4000' to a higher number in the code.
+This is a simple web app built using the python library [Streamlit](https://streamlit.io/) to explore and download JotForm forms using the JotForm API. If you have an enterprise plan with a custom domain, you can click on the API URL dropdown, select "*custom*", and enter your own custom jotform API URL. This app enhances the current JotForm maximum form limit of 1000 by automatically correcting the offset and increasing the limit to 4000. This number can be increased to whichever maximum number is needed by changing '4000' to a higher number in the code.
 
 The app displays the form data in a table based on the selected criteria. If any forms match the criteria, a "Download CSV file" button will appear, allowing you to download a CSV file containing the form data.
 
