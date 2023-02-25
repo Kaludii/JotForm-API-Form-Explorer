@@ -33,10 +33,14 @@ Click [Here](https://huggingface.co/spaces/Kaludi/JotForm-API-Form-Explorer_App 
 
 `cd jotform-api-explorer` 
 
-3.  Install the required packages:
+3.  Install streamlit if not already installed:
+
+`pip install streamlit requests` 
+
+4.  Install the required packages:
 
 `pip install -r requirements.txt` 
 
-4.  Run the app:
+5.  Run the app:
 
 `streamlit run app.py` 
