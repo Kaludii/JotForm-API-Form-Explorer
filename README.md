@@ -21,6 +21,7 @@ Click [Here](https://huggingface.co/spaces/Kaludi/JotForm-API-Form-Explorer_App 
 
 -   Python 3.7 or higher
 -   JotForm API key
+-   Streamlit
 
 ## Installation
 
